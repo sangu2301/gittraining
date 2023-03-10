@@ -1,0 +1,1 @@
+working directory->staging area->localrepo->remote repo
